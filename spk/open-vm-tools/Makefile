@@ -6,7 +6,7 @@ BETA = 1
 
 DEPENDS = cross/$(SPK_NAME)
 
-MAINTAINER = leonardw
+MAINTAINER = broadwellnk
 DESCRIPTION = open-vm-tools is a set of services and modules that enable several features in VMware products for better management of, and seamless user interactions with, guests.
 RELOAD_UI = yes
 DISPLAY_NAME = VMware Tools
