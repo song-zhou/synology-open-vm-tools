@@ -5,7 +5,7 @@ PKG_DIST_NAME = $(PKG_NAME)-$(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = http://downloads.sourceforge.net/project/$(PKG_NAME)/Production
 PKG_DIR = $(PKG_NAME)-$(PKG_VERS)
 
-DEPENDS = cross/ncurses
+DEPENDS = cross/ncursesw
 
 HOMEPAGE = http://sourceforge.net/projects/procps-ng/
 COMMENT  = procps-ng is a fork of the procps project. It contains free, kill, pkill, pgrep, pmap, ps, pwdx, skill, slabtop, snice, sysctl, tload, top, uptime, vmstat, w, and watch.
